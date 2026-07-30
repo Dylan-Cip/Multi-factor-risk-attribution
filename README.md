@@ -77,3 +77,5 @@ The multivariate regression model was fitted using 1,260 daily observations per 
 │   └── attribution_dashboard.png      # High-resolution output heatmaps & charts
 ├── README.md                          # Institutional research overview
 └── requirements.txt                   # Dependency environment specs
+ ) missing from font(s) DejaVu Sans.
+  fig.canvas.print_figure(bytes_io, **kw)
