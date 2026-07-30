@@ -1,6 +1,6 @@
 # Multi-Factor Equity Risk & Performance Attribution Model
 
-> **Author:** Quantitative Research Portfolio Project  
+> **Author:** Dylan Cipriano
 > **Domain:** Quantitative Finance, Applied Econometrics, Risk Management  
 > **Stack:** Python, Pandas, NumPy, StatsModels, Matplotlib, Seaborn  
 
